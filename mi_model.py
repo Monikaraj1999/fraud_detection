@@ -13,3 +13,6 @@ def model2():
 
 def model3():
     print("adding core for ML Model3")
+
+
+print("model2 is performing best")
